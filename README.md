@@ -22,11 +22,11 @@
 # Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="700" alt="Text Difference Checker Screenshot 1"/>
+  <img src="assets/image1.png" width="700" alt="Text Difference Checker Screenshot 1"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot2.png" width="700" alt="Text Difference Checker Screenshot 2"/>
+  <img src="assets/image2.png" width="700" alt="Text Difference Checker Screenshot 2"/>
 </p>
 
 ---
